@@ -1,0 +1,13 @@
+Simple jQuery plugin to automate forms storing through
+the HTML5 Storage API. 
+
+NOTE:	This is not a pro code. It's just an experiment
+		that I made and decided to share with other people
+		with this type of problem. Sorry if best pratices
+		don't live here! :P
+
+WARNING: 	To work it needs that form elements have at least
+			an id or a name.
+
+TODO:
+		add a clear method.
